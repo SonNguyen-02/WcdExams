@@ -32,6 +32,7 @@
             </div>
         </div>
     </div>
+    <jsp:include page="_confirm_modal.jsp"/>
 </div>
 
 <script src="${pageContext.request.contextPath}/public/js/jquery/jquery.validate.min.js"></script>
